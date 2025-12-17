@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1764754512 source:c:\users\ppk29\onedrive\pulpit\codeblocks\lab4\fibonacci_project\fibonacci.cpp
+	"fibonacci.h"
+
+1764754512 c:\users\ppk29\onedrive\pulpit\codeblocks\lab4\fibonacci_project\fibonacci.h
+
+1764754551 source:c:\users\ppk29\onedrive\pulpit\codeblocks\lab4\fibonacci_project\main.cpp
+	<iostream>
+	"fibonacci.h"
+
